@@ -1,0 +1,12 @@
+etd.py
+extr-chat-clean-1.py
+extr-chat.py
+extr-clean-files-only.py
+extr-l10-chat.py
+US_v_Trump_23_cr_257.pdf
+
+venv/
+__pycache__/
+.vscode/
+out/
+*.pyc
